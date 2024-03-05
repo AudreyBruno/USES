@@ -1,5 +1,5 @@
 ## Coding
- - [VSCode](https://code.visualstudio.com/): is a powerful code editor developed by Microsoft. [(extensions I use)](#vscode)
+ - [VSCode](https://code.visualstudio.com/): is a powerful code editor developed by Microsoft. [(extensions I use)](#vscode-extensions)
  - [FiraCode](https://github.com/tonsky/FiraCode): free monospaced font with programming ligatures.
  - [Delphi](https://www.embarcadero.com/br/products/delphi): is an IDE and programming language for rapid cross-platform application development.
 
