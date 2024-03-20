@@ -28,6 +28,7 @@
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker):The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv): A port of DotENV for vscode.
 - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma): Adds syntax highlighting, linting, code completion, formatting, jump-to-definition and more for Prisma Schema files.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): A Visual Studio Code extension with rich support for the Python language.
 
 #### Language Packs
 - [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR): Adds Brazilian Portuguese language support to Visual Studio Code.
